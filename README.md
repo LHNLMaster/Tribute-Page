@@ -1,5 +1,4 @@
 "# Tribute-Page" 
-
-###Sample Web:
+### Sample Web:
 
 https://tribute-page.freecodecamp.rocks/
